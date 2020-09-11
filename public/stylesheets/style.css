@@ -16,7 +16,6 @@ html {
 
 #maestro {
   background-color: #f5f7ff;
-  height: 1001px;
   box-sizing: border-box;
 }
 
@@ -287,7 +286,7 @@ section {
 }
 
 #maestro-repo-btn {
-  margin-top: 25px;
+  margin: 25px;
   width: 228px;
 }
 
