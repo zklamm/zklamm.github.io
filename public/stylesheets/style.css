@@ -16,6 +16,7 @@ html {
 
 #maestro {
   background-color: #f5f7ff;
+  color: #1e1d20;
   box-sizing: border-box;
 }
 
@@ -187,11 +188,11 @@ section {
 ------------------------------------ */
 
 #avatar {
+  border-radius: 100%;
   display: block;
   max-width: 350px;
   min-width: 300px;
   object-fit: contain;
-  border-radius: 100%;
 }
 
 #intro > p {
@@ -209,7 +210,6 @@ section {
 ------------------------------------ */
 
 #maestro {
-  background-color: #f5f7ff;
   overflow: hidden;
   justify-content: center;
   padding-bottom: 0;
