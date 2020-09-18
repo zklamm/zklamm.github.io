@@ -309,7 +309,7 @@ section {
   left: 5px;
 }
 
-#github-logo {
+#bowtie {
   cursor: pointer;
   width: 35px;
   position: fixed;
@@ -317,11 +317,19 @@ section {
   left: 5px;
 }
 
-#linkedin-logo {
+#github-logo {
   cursor: pointer;
   width: 35px;
   position: fixed;
   top: 105px;
+  left: 5px;
+}
+
+#linkedin-logo {
+  cursor: pointer;
+  width: 35px;
+  position: fixed;
+  top: 155px;
   left: 5px;
 }
 
